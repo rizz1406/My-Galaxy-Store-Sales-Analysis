@@ -25,7 +25,7 @@ To increase **My Galaxy Store** sales, focus on:
 - **Microsoft Excel** (Pivot Tables, Charts, Reports)  
 
 ## 📂 Project Files  
-📌 **[MyGalaxyStore_Data.xlsx](./MyGalaxyStore_Data.xlsx)** – Raw data, Pivot tables, & Analysis  
+📌 **My Galaxy Store Data** – Raw data, Pivot tables, & Analysis  
 ---
 
 🔗 **Connect with me:** [Your GitHub Profile](https://github.com/rizz1406)  
